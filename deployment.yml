@@ -37,5 +37,3 @@ spec:
       port: 80
       targetPort: 1024
   type: LoadBalancer
-externalIPs:
-  - 144.24.122.99
